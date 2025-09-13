@@ -4,3 +4,6 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 
 Learned about the different products, visuals and possibilities with MS Azure
+
+
+Learned about the different disponibilities, about VM's in Azure

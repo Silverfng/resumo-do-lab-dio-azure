@@ -14,3 +14,6 @@ Learned how to navigate through the panel when creating a VM, also, the importan
 
 Learned about some resources, about Azure resources via explore https://datacenters.microsoft.com
 Checked how to create some resources also
+
+Checked via lab on how to create a VM following some good practices regarding how to select the most suitable machine for example. 
+Learned about workspace, when in a case that the user can want to create a VM for an employee that works remotely for example.

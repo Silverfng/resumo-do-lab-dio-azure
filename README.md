@@ -17,3 +17,5 @@ Checked how to create some resources also
 
 Checked via lab on how to create a VM following some good practices regarding how to select the most suitable machine for example. 
 Learned about workspace, when in a case that the user can want to create a VM for an employee that works remotely for example.
+
+Extra info about azure copy, how to manage, in which cases is better, more about box, and how it applies in the test context.

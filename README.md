@@ -19,3 +19,5 @@ Checked via lab on how to create a VM following some good practices regarding ho
 Learned about workspace, when in a case that the user can want to create a VM for an employee that works remotely for example.
 
 Extra info about azure copy, how to manage, in which cases is better, more about box, and how it applies in the test context.
+
+Information regarding Microsoft Entra ID (Active Directory), how it works, some quick tips and best ways to work with it.

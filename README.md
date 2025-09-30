@@ -21,3 +21,5 @@ Learned about workspace, when in a case that the user can want to create a VM fo
 Extra info about azure copy, how to manage, in which cases is better, more about box, and how it applies in the test context.
 
 Information regarding Microsoft Entra ID (Active Directory), how it works, some quick tips and best ways to work with it.
+
+Assured the importance of researching and using the TCO - that could help even on understanding and deciding on cases such as: OnPrem x Cloud environment 

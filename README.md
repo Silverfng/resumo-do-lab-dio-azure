@@ -31,3 +31,10 @@ Policies, such as LGPD in Brazil
 
 More info regarding PowerShell, Microsoft BIOS, how it could work also with AWS for example. Azure CLI. How to work with templates and scripts within Azure, to create automated resources. Also a platform from the community. azure.github.io/bicep
 Also more information on Azure ARC. 
+
+Extra info on: Monitoring services
+Monitor
+Service Health
+Advisor
+
+And their advantages, and why is important to know how to use them.

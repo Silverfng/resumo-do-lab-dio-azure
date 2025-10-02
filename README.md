@@ -28,3 +28,6 @@ Portal de confiança do serviço, politicas, certificações, por região
 
 Microsoft Purview - working alongside m365
 Policies, such as LGPD in Brazil
+
+More info regarding PowerShell, Microsoft BIOS, how it could work also with AWS for example. Azure CLI. How to work with templates and scripts within Azure, to create automated resources. Also a platform from the community. azure.github.io/bicep
+Also more information on Azure ARC. 

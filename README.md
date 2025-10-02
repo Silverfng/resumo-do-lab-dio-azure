@@ -23,3 +23,8 @@ Extra info about azure copy, how to manage, in which cases is better, more about
 Information regarding Microsoft Entra ID (Active Directory), how it works, some quick tips and best ways to work with it.
 
 Assured the importance of researching and using the TCO - that could help even on understanding and deciding on cases such as: OnPrem x Cloud environment 
+
+Portal de confiança do serviço, politicas, certificações, por região
+
+Microsoft Purview - working alongside m365
+Policies, such as LGPD in Brazil
